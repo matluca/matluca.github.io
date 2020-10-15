@@ -1,13 +1,13 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "ea8f0c4a80bd1204010f91504c479014",
+  "main.dart.js": "901a525c260bda3d63498aab1d538fcd",
 "manifest.json": "cefe2459cee7ca7993ad794747fe79e6",
 "index.html": "41450ab180ba25f1a74a43acdb338092",
 "/": "41450ab180ba25f1a74a43acdb338092",
-"assets/AssetManifest.json": "97f0661d090d4f8a280c33c4a712c616",
+"assets/AssetManifest.json": "ef717d6d4933ec38dd6a56dd13b668e4",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/LICENSE": "09578d181d7d30f99a32fd997194b57b",
+"assets/LICENSE": "8c2a3525c64618bf1e7f1e06c635c581",
 "assets/FontManifest.json": "0621fb7723859a382fc19210904f6578",
 "assets/assets/wethebasce.jpeg": "125a8b237458903a101dc50a9b26751e",
 "assets/assets/fabio.jpg": "9e4c3a5408a3fcf861f561e75e110966",
@@ -16,6 +16,7 @@ const RESOURCES = {
 "assets/assets/gianluca.jpg": "6cbaa42f4d69d2bf65c75e5720bb6206",
 "assets/assets/naismith.jpg": "124ee95b3d57b49f4b903a67f1c7ffb3",
 "assets/assets/podium.png": "ac672ae5039761f3f935150752d73ecd",
+"assets/assets/profile2020.jpg": "23978bea474543c98d2ffdeb5abf1389",
 "assets/assets/enrico.jpg": "90545eceac53dc23bb931e417e5dff66",
 "assets/assets/melo.jpg": "8f87b0a52fb213352fb84d3e15a20d2d",
 "assets/assets/albo.png": "91d0c6c1a7953fa187c334517b409f38",
